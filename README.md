@@ -8,7 +8,8 @@ editor:
 
 The author of this blog is Nattamon Wattanapenpaiboon (36798800).
 
-The URL for this blog is https://etc5523-2023.github.io/blog-template/.
+The URL for this blog is
+<https://etc5523-2026.github.io/etc5523-assignment-3-nwat0027>
 
 ### Overview of Deliverables
 
