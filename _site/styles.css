@@ -1,0 +1,136 @@
+/* Custom Personal Palette */
+:root {
+  --bg-page: #FFFFFF;        /* white */
+  --bg-card: #E5E5E5;        /* soft grey */
+  --accent-primary: #CCA43B; /* gold */
+  --bg-title: #242F40;       /* deep navy-grey */
+  --text-dark: #363636;      /* charcoal */
+}
+
+/* Title banner background */
+.quarto-title-banner {
+  background-color: var(--bg-title);
+  padding: 1.5rem 1rem;
+}
+
+body {
+  background-color: var(--bg-page);
+  color: var(--text-dark);
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/*Force title, subtitle, author metadata, and links inside banner to be white*/
+.quarto-title-banner .title,
+.quarto-title-banner .subtitle,
+.quarto-title-banner .description,
+.quarto-title-banner .quarto-title-meta,
+.quarto-title-banner .quarto-title-meta-heading,
+.quarto-title-banner .quarto-title-meta-contents,
+.quarto-title-banner .quarto-title-meta a,
+.quarto-title-banner p,
+.quarto-title-banner h1 { color: #FFFFFF !important; }
+
+
+/* Lede paragraph styling */
+.lede {
+  font-size: 1.25rem;
+  line-height: 1.65;
+  color: var(--text-dark);
+  font-weight: 500;
+  border-bottom: 2px solid var(--accent-primary);
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Custom .finding callout box */
+.finding {
+  border-left: 6px solid var(--accent-primary);
+  background-color: var(--bg-card);
+  color: var(--text-dark);
+  padding: 1.25rem 1.5rem;
+  margin: 1.75rem 0;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.finding-title {
+  font-weight: 700;
+  color: var(--text-dark);
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.takeaway-card {
+  background-color: var(--bg-title);
+  color: #FFFFFF;
+  border-top: 4px solid var(--accent-primary);
+  padding: 1.5rem 1.75rem; border-radius: 8px;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); }
+
+.takeaway-card h4 {
+  color: var(--accent-primary) !important;
+  margin-top: 0;
+  font-weight: 700;
+}
+
+/* Quarto Homepage Blog Post Preview Cards */
+.quarto-post {
+  border-left: 4px solid #CCA43B !important; /* Gold accent border */
+  background-color: #F8F9FA; /* Soft light grey card fill */
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 0 8px 8px 0; /* Rounded right corners */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+/* Interactive Hover Effect */
+.quarto-post:hover {
+  transform: translateY(-3px); /* Subtle lift on hover */
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  background-color: #FFFFFF;
+}
+
+/* Post Title inside Listing */
+.quarto-post .title {
+  color: var(--bg-title, #242F40); /* Deep navy */
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-bottom: 0.35rem;
+  transition: color 0.2s ease;
+}
+
+.quarto-post .title:hover {
+  color: var(--accent-primary, #CCA43B); /* Gold highlight on link hover */
+}
+
+/* Metadata (Date & Reading Time) */
+.quarto-post .metadata {
+  color: #6C757D;
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+/* Description Text */
+.quarto-post .description {
+  color: var(--text-dark, #363636);
+  line-height: 1.55;
+  font-size: 0.95rem;
+}
+
+/* Category Badges Styling */
+.quarto-category {
+  background-color: #242F40 !important; /* Navy background badge */
+  color: #FFFFFF !important;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+

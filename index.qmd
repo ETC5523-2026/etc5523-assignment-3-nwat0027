@@ -1,14 +1,17 @@
 ---
-title: "ETC5523 Blog Assessment"
+title: "Nattamon (Zoey) Wattanapenpaiboon"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: true
 ---
+**Welcome to my data communication showcase!**  
+I’m *Nattamon (Zoey) Wattanapenpaiboon*, a Senior Bank Examiner at the Bank of Thailand and a current Master of Business Analytics student at Monash University. This website is part of my learning journey in data communication, where I experiment with presenting complex modelling — including epidemiological and risk‑based analyses — in a web‑first format.
 
 
+## ⭐ Featured Data Stories 
+ 
