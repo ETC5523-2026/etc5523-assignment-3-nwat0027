@@ -2,7 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/welcome/index.knit.html",
       "/posts/welcome/index.html"
     ]
   }
