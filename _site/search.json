@@ -28,13 +28,6 @@
     "text": "Policy Takeaway\n\nCommunity Vaccination Acts as a Biosecurity Firewall\nFor travelers and policymakers, these findings reshape how we think about border safety. Hotel quarantine remains an important line of defense, but under fast-spreading variants, zero-risk borders are no longer realistic. Rather than relying on perpetual travel restrictions, safe international reopening depends on building a strong community firewall—where high vaccination coverage ensures that an inevitable border breach remains a minor, manageable event.\n\n\nSummary for Travelers & Communities\n\nQuarantine limits frequency: Controls how often infected arrivals enter the community.\nVaccination determines impact: Reaching 80% coverage stops isolated leaks from growing into major outbreaks.\nSafe Reopening: High population immunity allows borders to reopen safely without relying on quarantine rules alone."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m Nattamon (Zoey) Wattanapenpaiboon, a Senior Bank Examiner at the Bank of Thailand (BOT). My work focuses on financial supervision, risk assessment, and strengthening the resilience of Thailand’s banking sector. I am currently sponsored by BOT to pursue a Master of Business Analytics at Monash University, where I’m expanding my technical capability in data analysis, modelling, and evidence‑based communication.\nMy professional background is rooted in regulatory oversight, but my academic journey has broadened into applied analytics across different domains — including epidemiology, spatial risk modelling, and public‑facing data storytelling. I’m particularly interested in how complex models can be translated into clear narratives that help people make informed decisions.\nThis website was created for ETC5523: Communicating with Data as part of my learning journey at Monash. It showcases how I apply analytical tools, visual design principles, and communication strategies to turn technical modelling — such as quarantine‑leak simulations and vaccination‑based risk frameworks — into accessible stories for a general audience.\nBeyond this project, I’m passionate about using data to support evidence‑based decision‑making in financial supervision. I’m particularly interested in how modelling, risk analytics, and transparent communication can strengthen regulatory practice and help institutions better understand emerging risks."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nattamon (Zoey) Wattanapenpaiboon",
@@ -47,6 +40,13 @@
     "title": "Nattamon (Zoey) Wattanapenpaiboon",
     "section": "⭐ Featured Data Stories",
     "text": "⭐ Featured Data Stories"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Nattamon (Zoey) Wattanapenpaiboon, a Senior Bank Examiner at the Bank of Thailand (BOT). My work focuses on financial supervision, risk assessment, and strengthening the resilience of Thailand’s banking sector. I am currently sponsored by BOT to pursue a Master of Business Analytics at Monash University, where I’m expanding my technical capability in data analysis, modelling, and evidence‑based communication.\nMy professional background is rooted in regulatory oversight, but my academic journey has broadened into applied analytics across different domains — including epidemiology, spatial risk modelling, and public‑facing data storytelling. I’m particularly interested in how complex models can be translated into clear narratives that help people make informed decisions.\nThis website was created for ETC5523: Communicating with Data as part of my learning journey at Monash. It showcases how I apply analytical tools, visual design principles, and communication strategies to turn technical modelling — such as quarantine‑leak simulations and vaccination‑based risk frameworks — into accessible stories for a general audience.\nBeyond this project, I’m passionate about using data to support evidence‑based decision‑making in financial supervision. I’m particularly interested in how modelling, risk analytics, and transparent communication can strengthen regulatory practice and help institutions better understand emerging risks."
   },
   {
     "objectID": "posts/welcome/index.knit.html",
