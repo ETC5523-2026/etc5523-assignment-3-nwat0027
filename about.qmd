@@ -13,6 +13,10 @@ about:
 
 ---
 
-I’m **Nattamon (Zoey) Wattanapenpaiboon**, a Senior Bank Examiner at the Bank of Thailand (BOT). I am currently sponsored by BOT to pursue a Master of Business Analytics at Monash University, with the goal of strengthening analytical capability to support financial supervision and risk assessment to ensure the stability and resilience of Thailand’s banking sector.
+I’m **Nattamon (Zoey) Wattanapenpaiboon**, a Senior Bank Examiner at the Bank of Thailand (BOT). My work focuses on financial supervision, risk assessment, and strengthening the resilience of Thailand’s banking sector. I am currently sponsored by BOT to pursue a Master of Business Analytics at Monash University, where I’m expanding my technical capability in data analysis, modelling, and evidence‑based communication.
 
-This website is part of my learning journey at Monash, created for *ETC5523: Communicating with Data*. It showcases how I apply analytical and communication skills to new domains — including public health modelling — by translating complex research into stories for a general audience.
+My professional background is rooted in regulatory oversight, but my academic journey has broadened into applied analytics across different domains — including epidemiology, spatial risk modelling, and public‑facing data storytelling. I’m particularly interested in how complex models can be translated into clear narratives that help people make informed decisions.
+
+This website was created for *ETC5523: Communicating with Data* as part of my learning journey at Monash. It showcases how I apply analytical tools, visual design principles, and communication strategies to turn technical modelling — such as quarantine‑leak simulations and vaccination‑based risk frameworks — into accessible stories for a general audience.
+
+Beyond this project, I’m passionate about using data to support evidence‑based decision‑making in financial supervision. I’m particularly interested in how modelling, risk analytics, and transparent communication can strengthen regulatory practice and help institutions better understand emerging risks.

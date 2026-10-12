@@ -2,7 +2,7 @@
 title: "Understanding COVID-19 Outbreak Risk at the Border"
 description: "Fast‑spreading variants can overwhelm quarantine, but high vaccination coverage creates a community firewall that makes border reopening safer."
 author: "Nattamon Wattanapenpaiboon"
-date: "2026-10-11"
+date: "2026-10-12"
 bibliography: reference.bib
 image: "border_biosecurity_hero.png"
 ---
@@ -87,16 +87,22 @@ scenarios |>
   row_spec(3, background = "#CCA43B", color = "#242F40")                  # gold 
 ```
 
+::: {.finding}
+::: {.finding-title} 
+Understanding the Model’s Boundaries
+:::
+- **Static Immunity Assumption:** The model treats vaccine effectiveness as constant, but real immunity wanes. Sustaining high community protection requires ongoing booster programs.
+- **Quarantine Interdependence:** Vaccination reduces outbreak growth after a leak, but it does not replace border controls. Effective quarantine, testing, and isolation protocols remain essential.
+:::
 
 ## Policy Takeaway
 ### Community Vaccination Acts as a Biosecurity Firewall
-Hotel quarantine has been an indispensable line of defence, but fast-spreading variants like Delta mean that standalone border controls are no longer enough. While quarantine reduces the *frequency* of infected arrivals entering the community, population vaccination determines *what happens next*.
-For people planning international travel, these results explain why border reopening depends on widespread community vaccination rather than quarantine rules alone.
-
-Without high community immunity, even a single border leak can spark a rapid local outbreak. But when 80% of the community is vaccinated, viral transmission stalls—turning a potentially dangerous leak into a manageable event.
+For travelers and policymakers, these findings reshape how we think about border safety. Hotel quarantine remains an important line of defense, but under fast-spreading variants, zero-risk borders are no longer realistic. Rather than relying on perpetual travel restrictions, safe international reopening depends on building a strong community firewall—where high vaccination coverage ensures that an inevitable border breach remains a minor, manageable event.
 
 ::: {.takeaway-card}
 ### Summary for Travelers & Communities   
-Quarantine limits how often leaks happen. High vaccination coverage — especially around 80% — determines whether those leaks grow. With strong community immunity, most leaks fizzle out, making reopening far safer.
+- **Quarantine limits frequency:** Controls how *often* infected arrivals enter the community. 
+- **Vaccination determines impact:** Reaching *80% coverage* stops isolated leaks from growing into major outbreaks. 
+- **Safe Reopening:** High population immunity allows borders to reopen safely without relying on quarantine rules alone.
 :::
 
