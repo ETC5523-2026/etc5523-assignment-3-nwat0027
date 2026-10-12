@@ -28,11 +28,18 @@
     "text": "Policy Takeaway\n\nCommunity Vaccination Acts as a Biosecurity Firewall\nFor travelers and policymakers, these findings reshape how we think about border safety. Hotel quarantine remains an important line of defense, but under fast-spreading variants, zero-risk borders are no longer realistic. Rather than relying on perpetual travel restrictions, safe international reopening depends on building a strong community firewall—where high vaccination coverage ensures that an inevitable border breach remains a minor, manageable event.\n\n\nSummary for Travelers & Communities\n\nQuarantine limits frequency: Controls how often infected arrivals enter the community.\nVaccination determines impact: Reaching 80% coverage stops isolated leaks from growing into major outbreaks.\nSafe Reopening: High population immunity allows borders to reopen safely without relying on quarantine rules alone."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Nattamon (Zoey) Wattanapenpaiboon, a Senior Bank Examiner at the Bank of Thailand (BOT). My work focuses on financial supervision, risk assessment, and strengthening the resilience of Thailand’s banking sector. I am currently sponsored by BOT to pursue a Master of Business Analytics at Monash University, where I’m expanding my technical capability in data analysis, modelling, and evidence‑based communication.\nMy professional background is rooted in regulatory oversight, but my academic journey has broadened into applied analytics across different domains — including epidemiology, spatial risk modelling, and public‑facing data storytelling. I’m particularly interested in how complex models can be translated into clear narratives that help people make informed decisions.\nThis website was created for ETC5523: Communicating with Data as part of my learning journey at Monash. It showcases how I apply analytical tools, visual design principles, and communication strategies to turn technical modelling — such as quarantine‑leak simulations and vaccination‑based risk frameworks — into accessible stories for a general audience."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nattamon (Zoey) Wattanapenpaiboon",
     "section": "",
-    "text": "Welcome to my data communication showcase!\nI’m Zoey, a Senior Bank Examiner at the Bank of Thailand and a current Master of Business Analytics student at Monash University. This website is part of my learning journey in data communication, where I experiment with presenting complex modelling — including epidemiological and risk‑based analyses — in a web‑first format."
+    "text": "Welcome to my data communication showcase!\nI’m Nattamon (Zoey) Wattanapenpaiboon, a Senior Bank Examiner at the Bank of Thailand and a current Master of Business Analytics student at Monash University. This website is part of my learning journey in data communication, where I experiment with presenting complex modelling — including epidemiological and risk‑based analyses — in a web‑first format."
   },
   {
     "objectID": "index.html#featured-data-stories",
@@ -40,40 +47,5 @@
     "title": "Nattamon (Zoey) Wattanapenpaiboon",
     "section": "⭐ Featured Data Stories",
     "text": "⭐ Featured Data Stories"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m Nattamon (Zoey) Wattanapenpaiboon, a Senior Bank Examiner at the Bank of Thailand (BOT). My work focuses on financial supervision, risk assessment, and strengthening the resilience of Thailand’s banking sector. I am currently sponsored by BOT to pursue a Master of Business Analytics at Monash University, where I’m expanding my technical capability in data analysis, modelling, and evidence‑based communication.\nMy professional background is rooted in regulatory oversight, but my academic journey has broadened into applied analytics across different domains — including epidemiology, spatial risk modelling, and public‑facing data storytelling. I’m particularly interested in how complex models can be translated into clear narratives that help people make informed decisions.\nThis website was created for ETC5523: Communicating with Data as part of my learning journey at Monash. It showcases how I apply analytical tools, visual design principles, and communication strategies to turn technical modelling — such as quarantine‑leak simulations and vaccination‑based risk frameworks — into accessible stories for a general audience.\nBeyond this project, I’m passionate about using data to support evidence‑based decision‑making in financial supervision. I’m particularly interested in how modelling, risk analytics, and transparent communication can strengthen regulatory practice and help institutions better understand emerging risks."
-  },
-  {
-    "objectID": "posts/welcome/index.knit.html",
-    "href": "posts/welcome/index.knit.html",
-    "title": "Understanding COVID-19 Outbreak Risk at the Border",
-    "section": "",
-    "text": "When is international travel actually safe again?\nHotel quarantine has protected Australia for most of the pandemic, but fast‑spreading COVID‑19 variants have shown that even small leaks can grow quickly once they reach the community. As borders reopen, the key issue becomes whether vaccination can buy enough time to stop a leak from turning into a major outbreak.\nThis post explains why quarantine alone can’t hold back highly contagious variants, and how high community vaccination levels create a “firewall” that stops border leaks from turning into outbreaks. The goal is simple: help you understand how your own vaccination contributes to safer borders, and what vaccination targets make international travel realistically possible again.\nTo understand when borders can reopen safely, we need to look at what actually happens when a single infected traveller slips through quarantine.\nResearchers from the University of Melbourne, the Doherty Institute, and Monash University modelled thousands of “border‑leak” scenarios using real Australian and New Zealand quarantine data (Zachreson et al. (2022)). Their simulations capture how quickly newer COVID variants spread, how effective vaccination is at blocking transmission, and how often quarantine leaks occur. The goal was simple: estimate the chance that a single leak grows into a community outbreak."
-  },
-  {
-    "objectID": "posts/welcome/index.knit.html#quarantine-isnt-enough-anymore",
-    "href": "posts/welcome/index.knit.html#quarantine-isnt-enough-anymore",
-    "title": "Understanding COVID-19 Outbreak Risk at the Border",
-    "section": "Quarantine Isn’t Enough Anymore",
-    "text": "Quarantine Isn’t Enough Anymore\nThe results are clear. When a fast‑spreading variant enters the community, hotel quarantine alone cannot reliably prevent outbreaks. Even small leaks grow quickly because each infected person passes the virus on to more people than earlier strains. In the model, a single leak often led to dozens of infections before contact tracers could intervene.\nFigure 1 shows how vaccination changes the timeline of a border leak. At low vaccination coverage, the time until a leak reaches a 50% chance of becoming an outbreak is short — often just days or weeks. As coverage increases, the curves rise sharply, showing that outbreaks take much longer to gain momentum. The red vertical line marks 80% coverage, a key threshold in the model: beyond this point, high‑efficacy vaccines slow transmission so effectively that a single leak may take months or even years to reach the same level of risk.\n\n\n\n\n\n\n\n\nFigure 1: Modelled time until a 50% outbreak probability following a single border leak, across different levels of vaccine coverage and vaccine efficacy. Higher coverage and higher efficacy both substantially delay the point at which a leak becomes likely to grow into an outbreak. (Adapted from Figure4B of Zachreson et al. (2022))\n\n\n\n\n\n\n\nWhat does “vaccine efficacy (VE)” mean?\n\nVaccine efficacy is a measure of how well the vaccine stops the virus from spreading.\nA VE of 0.8 means the vaccine reduces a person’s chance of catching or passing the virus on by about 80%. Higher VE doesn’t just protect individuals — it slows transmission across the entire community, making it much harder for a border leak to spark an outbreak."
-  },
-  {
-    "objectID": "posts/welcome/index.knit.html#at-80-coverage-outbreak-risk-slows-dramatically",
-    "href": "posts/welcome/index.knit.html#at-80-coverage-outbreak-risk-slows-dramatically",
-    "title": "Understanding COVID-19 Outbreak Risk at the Border",
-    "section": "At 80% Coverage, Outbreak Risk Slows Dramatically",
-    "text": "At 80% Coverage, Outbreak Risk Slows Dramatically\nVaccination dramatically reduces the chance that a border leak becomes an outbreak. When most people are vaccinated, the virus struggles to find new hosts, slowing transmission and giving contact tracers time to respond. In the model, once community vaccination reaches around 80% with high‑efficacy vaccines (vaccine efficacy ≈ 80%), the timeline for a leak to grow into an outbreak stretches out dramatically.\nTable 1 summarises these benchmark timelines using the vaccine efficacy = 80% curve from the model. At low coverage, leaks grow quickly and outbreaks emerge within months. At moderate coverage, transmission slows but outbreaks remain likely. At high coverage (≥ 80%), the delay extends into the hundreds of days — creating a meaningful “biosecurity buffer” where most leaks fizzle out before they spread widely.\n\n\n\n\nTable 1: Benchmark outbreak timelines at different vaccination coverage levels, based on the VE = 80% scenario.\n\n\n\n\n\n\nCoverage Level\nExpected Outbreak Delay\nRisk Interpretation\n\n\n\n\nLow (&lt; 50%)\n&lt; 200 days\nHigh risk — leaks grow quickly\n\n\nModerate (60–70%)\n200 - 300 days\nElevated risk — outbreaks slow but still likely\n\n\nHigh (≥ 80%)\n300 - 500 days\nBiosecurity firewall — leaks rarely grow\n\n\n\n\n\n\n\n\n\n\nUnderstanding the Model’s Boundaries\n\n\nStatic Immunity Assumption: The model treats vaccine effectiveness as constant, but real immunity wanes. Sustaining high community protection requires ongoing booster programs.\nQuarantine Interdependence: Vaccination reduces outbreak growth after a leak, but it does not replace border controls. Effective quarantine, testing, and isolation protocols remain essential."
-  },
-  {
-    "objectID": "posts/welcome/index.knit.html#policy-takeaway",
-    "href": "posts/welcome/index.knit.html#policy-takeaway",
-    "title": "Understanding COVID-19 Outbreak Risk at the Border",
-    "section": "Policy Takeaway",
-    "text": "Policy Takeaway\n\nCommunity Vaccination Acts as a Biosecurity Firewall\nFor travelers and policymakers, these findings reshape how we think about border safety. Hotel quarantine remains an important line of defense, but under fast-spreading variants, zero-risk borders are no longer realistic. Rather than relying on perpetual travel restrictions, safe international reopening depends on building a strong community firewall—where high vaccination coverage ensures that an inevitable border breach remains a minor, manageable event.\n\n\nSummary for Travelers & Communities\n\nQuarantine limits frequency: Controls how often infected arrivals enter the community.\nVaccination determines impact: Reaching 80% coverage stops isolated leaks from growing into major outbreaks.\nSafe Reopening: High population immunity allows borders to reopen safely without relying on quarantine rules alone."
   }
 ]
